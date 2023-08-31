@@ -2,8 +2,8 @@
 opam-version: "2.0"
 synopsis: "Number Theory Library"
 description: "Bindings for Number Theory Library: https://libntl.org/"
-homepage: "https://github.com/zkincaid/ocaml-ntl"
-bug-reports: "https://github.com/zkincaid/ocaml-ntl/issues"
+homepage: "https://github.com/tm507211/ocaml-ntl"
+bug-reports: "https://github.com/tm507211/ocaml-ntl/issues"
 depends: [
   "dune" {>= "2.0"}
   "ocaml" {>= "4.10"}
@@ -26,6 +26,6 @@ build: [
   ]
 ]
 url {
-  src: "https://github.com/zkincaid/ocaml-ntl/archive/refs/tags/v20221002.tar.gz"
-  checksum: "sha256=796878378f97690a74d6b507a9f291e2e68f1ce1c9287d0d1d6d1a7c1ae58ba1"
+  src: "https://github.com/tm507211/ocaml-ntl/archive/refs/tags/v20230831.tar.gz"
+  checksum: "sha256=c435acc17faf91c428e05cbc84ff5d5b69f0dd819a4ab5e78a9dd34e08fda079"
 }
